@@ -1,8 +1,6 @@
 package com.lazydash.petcare.pet;
 
-/**
- * Created by valiuv on 11.06.2015.
- */
+
 public class CatBuilder {
     private String name;
     private String color;

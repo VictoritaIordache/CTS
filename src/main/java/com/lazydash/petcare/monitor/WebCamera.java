@@ -3,9 +3,7 @@ package com.lazydash.petcare.monitor;
 import java.util.Observable;
 import java.util.Observer;
 
-/**
- * Created by valiuv on 11.06.2015.
- */
+
 public class WebCamera implements Observer {
     private int catNumber = 0;
 

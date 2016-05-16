@@ -6,9 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Observable;
 
-/**
- * Created by valiuv on 11.06.2015.
- */
+
 public class CatRoom extends Observable {
     private List<Cat> catList = new LinkedList<Cat>();
 

@@ -9,9 +9,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * Created by valiuv on 12.06.2015.
- */
+
 public class MainTest {
 
     @Before

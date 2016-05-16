@@ -3,9 +3,7 @@ package com.lazydash.petcare.pet;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by valiuv on 12.06.2015.
- */
+
 public class CatTest {
 
     @Test

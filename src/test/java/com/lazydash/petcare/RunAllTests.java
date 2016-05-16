@@ -9,9 +9,7 @@ import com.lazydash.petcare.run.MainTest;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
-/**
- * Created by valiuv on 12.06.2015.
- */
+
 @RunWith(Suite.class)
 @Suite.SuiteClasses(value = {
         WebCameraTest.class,

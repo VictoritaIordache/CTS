@@ -5,9 +5,7 @@ import com.lazydash.petcare.room.CatRoom;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by valiuv on 12.06.2015.
- */
+
 public class WebCameraTest {
 
     @Test
